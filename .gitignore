@@ -226,3 +226,8 @@ evaluation_design.md
 modeling_design.md
 related_work.md
 codex_fixup_prompt.md
+presentation_outline.md
+
+.claude
+.pycache
+make_diagrams.py
